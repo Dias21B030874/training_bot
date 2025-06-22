@@ -1,0 +1,14 @@
+aiohttp==3.8.1
+aiogram==3.2.0.post0
+asyncio==3.4.3
+python-dotenv==1.0.0
+SQLAlchemy==2.0.4
+uvicorn==0.18.2
+fastapi==0.95.1
+Jinja2==3.1.2
+pydantic==1.10.7
+aiofiles==0.8.0
+attrs==22.2.0
+httpx==0.23.3
+python-telegram-bot==20.0b4
+```
